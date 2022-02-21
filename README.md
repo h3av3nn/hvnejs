@@ -9,7 +9,7 @@
   <img align="left" alt="heavenejs | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.npmjs.com/~heavenejs">
-  <img align="left" alt="heavenejs | npm" width="22px" src=https://github.com/npm/logos/blob/master/npm%20logo/classic/npm-2009.png?raw=true" />
+  <img align="left" alt="heavenejs | npm" width="22px" src="https://github.com/npm/logos/blob/master/npm%20square/npm-16.png?raw=true" />
 </a>
 <br />
 <br />
