@@ -19,7 +19,7 @@ Hi, i'm HeaveNejs, a passionate self-taught full stack web developer from Turkey
 I am also an open-source enthusiast and maintained.
 
 
-  <img align="right" alt="GIF" src="https://github.com/hea31/hea31/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/hea31/hea31/blob/main/code.gif?raw=true" width="500" height="320" />
   
 - 💼 any freelance work? do reach, [email](mailto:heaven@nuxonic.tech) :)
 - 💬 ask me about anything, i am happy to help;
