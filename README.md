@@ -39,7 +39,7 @@ I am also an open-source enthusiast and maintained.
 
 <br />
 <br />
-<br />
+<hr>
 <br />
 <br />
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=hea31&show_icons=true&theme=gotham" alt="hea31" />
