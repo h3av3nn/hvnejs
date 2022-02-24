@@ -38,3 +38,4 @@ I am also an open-source enthusiast and maintained.
 
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=hea31&show_icons=true&theme=gotham" alt="hea31" />
+![](https://komarev.com/ghpvc/?username=jworse)
