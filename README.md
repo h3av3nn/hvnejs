@@ -16,7 +16,7 @@
 <br />
 
 
-Hi, i'm HeaveNejs, a passionate self-taught full stack web developer from Turkey. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. 
+Hi, i'm HeaveNejs, a passionate self-taught full stack web developer from Turkey. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. 
 
 I am also an open-source enthusiast and maintained.
 
