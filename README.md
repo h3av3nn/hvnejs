@@ -12,8 +12,7 @@
   <img align="left" alt="heavenejs | npm" width="22px" src="https://github.com/npm/logos/blob/master/npm%20square/npm-16.png?raw=true" />
 </a>
 <br />
-<br />
-<br />
+
 
 
 Hi, i'm HeaveNejs, a passionate self-taught full stack web developer from Turkey. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. 
@@ -26,7 +25,7 @@ I am also an open-source enthusiast and maintained.
 
 ![](https://komarev.com/ghpvc/?username=hea31)
 
-**languages and tools:**  
+**Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
