@@ -1,5 +1,5 @@
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://www.instagram.com/heavenejs">
+<a href="https://www.instagram.com/heavenejs/">
   <img align="left" alt="heavenejs's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 <a href="https://discord.gg/nuxonic">
@@ -42,4 +42,4 @@ I am also an open-source enthusiast and maintained.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png"></code>
 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=hvnejs&show_icons=true&theme=gotham" alt="hea31" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=hvnejs&show_icons=true&theme=gotham" alt="hvnejs" />
