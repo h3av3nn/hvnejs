@@ -18,8 +18,8 @@
 
 Hi, i'm HeaveNejs, a passionate self-taught full stack web developer from Turkey. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. 
 
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=hvnejs&count_private=true&show_icons=true&theme=dark&hide_border=true&include_all_commits=true">
 I am also an open-source enthusiast and maintained.
-
   
 - 💼 any freelance work? do reach, [email](mailto:heaven@nuxonic.tech) :)
 - 💬 ask me about anything, i am happy to help;
@@ -40,6 +40,3 @@ I am also an open-source enthusiast and maintained.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png"></code>
-
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=hvnejs&show_icons=true&theme=gotham" alt="hvnejs" />
